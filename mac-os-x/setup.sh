@@ -3,6 +3,8 @@
 echo "Go to: http://www.vagrantup.com/downloads.html and download + install Vagrant for Mac OS X, press enter when done"
 read
 
+# http://dev.sh/
+
 # Download Vagrantfile
 # cd vagrant dir
 # vagrant up
